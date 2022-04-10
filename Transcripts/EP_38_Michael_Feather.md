@@ -21,8 +21,8 @@ show.
 
 **Michael Feathers:** So glad to be here.
 
-**Michaela:** Yeah, it's my pleasure. I'm really, really excited. Michael, you have been
-probably working more than 20 years with engineers,  with software companies
+**Michaela:** Yeah, it's my pleasure. I'm really, really excited. Michael, you have
+probably been working more than 20 years with engineers,  with software companies
 from all over the world. This is so, so fascinating. I'm super curious
 about how different organizations develop software. I'm always asking the
 questions.
@@ -62,7 +62,7 @@ Unfortunately I think much more people should talk about values. The engineering
 values that we have and not the practices because practices can and
 should change.
 Right. They should change over time. And with technology changes and
-how our society changes, the practices should change. And somebody comes out and has a new idea, right, and they 
+how our society changes, the practices should change. And somebody comes out and has a new idea, right, and they.
 try something. They fail maybe 10 times, and
 then suddenly they found a new way . But the values, I think, for example,
 what about our.
@@ -103,7 +103,7 @@ and care for. You know, I think that helps us become better engineers.
 
 **Michaela:**: [00:05:17] When I was preparing for this interview, I read
 through the things that you write on your website on the RS seven K website.
-this is something that I read. I was really fascinated by it. That the
+ I was really fascinated by it. That the
 code is in living organism. Right. Sort of and I thought, well, this
 is true. Right. It evolves, it changes.
  People come in and the levels are their
@@ -136,7 +136,7 @@ about anything that kind of grows incrementally, where it's easier to add new
 things than to change existing things tends to go and sort of have like these
 hallmarks of organic growth in a way.
 Right? Like I used to say to people, like, if you, if there's like a young tree
-and you kind of like kick it and it kind of like falls over a little bit, it's
+and you kind of like kick it and it kind of  falls over a little bit, it's
 kind of like, it's not going to upright itself. It's going to basically continue
 to grow. You know, upward, but from the direction you kicked it out.
 Right. It's much the same way that kind of thing happens with our code is that
@@ -173,14 +173,14 @@ We, you know, we have to be more careful. In my experience. I see, I see several
 camps, right? So there are the, really the, the engineers that, you know, they
 love high quality code.
 They, they learned a lot about how to create high quality code and they really
-do and nurture the systems quite a bit. Then you have like some tension between
+do nurture the systems quite a bit. Then you have like some tension between
 business goals here because as long as it works right, and it fits the business
 goal, there's like this tension and this, this pull towards, well it's good
 enough.
 Let it. Be please don't make it nicer or more elegant and more inspiring. Just
 let it work. And then you have also very pragmatic developers that are maybe,
 you know, they're not, they're not into elegant code so much. I haven't seen
-many of those, but they are. And I think a lot of more people become, especially
+many of those, but they are. And I think a lot more people become, especially
 like people that are creating software because they want to create something,
 right.
 They want to do products. So we have like a new wave of engineers. I think,
@@ -193,7 +193,7 @@ you know, why are we using code and using code and code is just a means to an
 end, whereby I don't know when, when I was in university, it was not a means to
 an end.
 It was the end, right? Like, this is why we are here. This is, it was not, it
-was a product focused. I had not. Lecture about product. I had only lectures
+was  product focused. I had not. Lecture about product. I had only lectures
 about code and what is good code and what are good, you know development
 practices. And I also studied computer science. So a lot of computer and
 computer systems and system architecture and so on.
@@ -266,9 +266,9 @@ least understand what the consequences are of longer term.
 **Michaela:**: [00:15:07] Yeah. I liked that. I liked that idea a lot, because
 if you think about a business and it has a building and it is in the building,
 like, and the building just rots right. Buildings wrong. Right. So they. They
-get older. The forsake is not nice anymore. The entrance is maybe not nice the
+get old. The forsake is not nice anymore. The entrance maybe is not nice the
 floor, right.
-Ceiling and so on, but people it's very visible to people and you think like,
+Ceiling and so on, but it's very visible to people and you think like,
 well, it's good enough still it's good enough. But there comes a point where you
 think, well, we cannot have this entrance. It's still functioning. Right. It
 opens the door, but it makes them noise. Right. And it looks horrible.
@@ -348,12 +348,12 @@ they actually have a problem, you know?
 
 **Michael Feathers:**[00:19:37] And I think that's the bigger thing too, is just
 as developers, when we're working in an organization, it's a bit of work to go
-and actually go and convince people that actually some investments in going
+and actually convince people that actually some investments in going
 reducing technical debt gives you a payoff.
 Right. I think the most important thing to go and recognize this, that like
 there's almost like this 80 20 rule that basically goes and happens with code
 change. And I, you know, I haven't really seen research around this, but it
-seems to ring true. Maybe you have, I know you have a. We have a research
+seems to ring true. Maybe you have, I know you have. We have a research
 background, but it seems like there are hot spots in code systems where
 basically there a lot of change tends to gravitate towards them.
 They can shift over time. Right. So the thing is, it's kind of like as a
@@ -432,7 +432,7 @@ because it's code without tests.
 And I started ranting a little bit right in front of mine, says, you know, you
 should write that down. I'm like, okay. So I did. But the, the reason why I
 really was trying to press that point is because it was like really obvious to
-me through my experience at that time that. There's a real strong, qualitative
+me through my experience at that time. There's a real strong, qualitative
 difference between code that has test coverage and code that doesn't in the
 sense that if you don't have test coverage, quite often, you're scared of making
 changes and you can be much more conservative about how you, you know, do things
@@ -449,7 +449,7 @@ which kind of points to the solution, which I think is useful for us.
 If we're trying to go and galvanize attention towards better practice.
 
 **Michaela:**: [00:25:32] So on your head you also wrote. What we call legacy
-code is exactly what you would expect when developers turn over his I fast
+code is exactly what you would expect when developers turn over his fast
 error, dent code turnover. Right. So for me to seems very much it, legacy code
 has to do with the loss of the knowledge about the code base. Right? So if
 you're, and this sometimes has to do with the technology as well.
@@ -462,7 +462,7 @@ People don't have knowledge about the code base. So it's legacy code. Is that
 something that you think also rings true for you?
 
 **Michael Feathers:**[00:26:18] You know, I kind of like somebody offered that
-as like a an alternative definition is that, you know, legacy code is the
+as like an alternative definition is that, you know, legacy code is the
 product of, you know, it's when your team turns over faster than your code turns
 over. Right. That kind of thing. And I think it's important to go and basically
 see that system dynamic because it really affects.
@@ -546,7 +546,7 @@ Is that something that you recommend that you recognize as important and so on?
 with this too, because I kind of come, you know, at least I'm gonna become a
 consultant. I really got embedded, like in the extreme programming and agile
 communities. And so we had like pair programming in the very beginning and we
-would basically use that as like a.
+would basically use that as like.
 A way of going and trying to go and arrive at like continuous code review. And
 then more recently you have mob programming and ensemble programming as well.
 And it's kind of weird about this because it feels wrong in a way to go and have
@@ -600,7 +600,7 @@ noticed is that essentially we can see through the metrics that the code quality
 is deteriorating, but nobody on the team knows because they're just so used to
 looking at the same code all the time.
 They just kind of understand what's going on with things. So the newcomer. Would
-be completely, you know, I'm surprised by so one things I kind of wonder about
+be completely, you know, I'm surprised by so, one things I kind of wonder about
 all the time. It's like, can we basically get new people on the team, people
 visiting that we'll be able to basically say, well, you know, you're saying this
 is great, but I don't understand it.
@@ -633,7 +633,7 @@ It's funny. Conway's law, you know, we're Conway's laws, you know, saying that
 the  code structure is gonna end up going in, mirroring the structure of the
 teams to kind of like, you know, look at that at a very deep level and go and
 say the same thing is true with quality.
-If the coast starts to be kind of messed up at probably in the case, there's
+If the coast starts to be kind of messed up as probably in the case, there's
 communication problems within the team, in terms of nobody's able to go with,
 stand up and say, there's something wrong here. Maybe, you know, I mean, it
 seems like that kind of effect can occur as well.
@@ -704,7 +704,7 @@ such. Higher decisions or impactful decisions. And suddenly with refactoring,
 all those decisions are actually at your fingertips that you can actually change
 something and make it better. And, and, you know, it's in the small, but it can
 have a lot of ripple effects and all of that.
-Right. So to think about that, I think can be very challenging and.
+Right. So to think about that, I think can be very challenging.
 
 **Michael Feathers:**[00:40:07] Too, when people are talking about what good
 design is, it's kind of like, you know, if you give anybody a blank piece of
@@ -714,7 +714,7 @@ right? Because the number of constraints that you have basically go into sort of
 like help you exercise your design skill in a way, because you have to go and
 sort of like work around them and work with them.
 At least to deeper design insight, working with things where you have, where
-your environment is a bit more constrained than than you might hope it to be.
+your environment is a bit more constrained + than you might hope it to be.
 
 **Michaela:**: [00:40:36] Yeah. So there were a couple of questions on Twitter
 as well that I want to be even a little bit. So I was thinking about best
@@ -728,7 +728,7 @@ see, you know, what are people doing and then also seeing the impact, right?
 So you can pick and choose. And there is also, this is also something that we
 are lacking a little bit different transparency of best practices. Well, even if
 practices, right, it doesn't have to be the best practice, but the practice.
-How, how is that team doing? How is this team to doing and similar to what you
+How, how is that team doing? How is this team doing and similar to what you
 said too, when I'm working with larger organization, we also see that all
 there's this division and that division and the third division.
 And then they think that this division is actually doing the best. Right. And so
@@ -737,7 +737,7 @@ work. And suddenly you see that people are working and there are constraints.
 Right? So because one is like the driver division.
 Yeah. Which is a very different kind of a beach. And if you're working on the
 website side of things right. Where you can update things much easier, but it
-would be really cool to see a little bit. How are people working and H how could
+would be really cool to see a little bit. How are people working and how could
 you do that in an organization? Is there something that you learned.
 Where organizations surface that and show what are good practices that other
 teams should adopt.
@@ -761,14 +761,14 @@ anything that's really like, you know, it's just doing that.
 Sorry.
 
 **Michaela:**: [00:42:54] Yeah, communication, right? Brown bags, for example,
-that you
+
 
 **Michael Feathers:**[00:42:57] Yeah, I think, you know, nothing. I would go and
 add to that too. Is that even though transparency like that as a good, I think
 it's one of those things where it has to be discretionary rather than we're
 completely transparent all the time. Right. Within an organization. I think one
-things that's kind of cool is that when you have.
-Different groups of people within an organization working on different things,
+thing that's kind of cool is that when you have,
+different groups of people within an organization working on different things,
 they can incubate something and basically not worry about somebody going in
 saying, well, maybe that's not a good idea. It's like, no, we're going to try
 this for a while. And we're going to go and see what works with that. Then
@@ -779,7 +779,7 @@ don't, you know, everybody's kind of got the buy-in and the relationship with
 each other. And that's just a natural part of being human, right.
 To be able to come and sort of like, you know, grow things in a safe environment
 and then present them out into the world a little bit. But you know, a lot of
-this really comes down to leadership really within your organization. Can you
+this really comes down to leadership within your organization. Can you
 basically go and sort of like, make it. You know okay. For things to be, not to
 be okay.
 Not be okay sometimes. Right. And just sort of like, make people feel safe to go
@@ -788,7 +788,7 @@ So, yeah. Culture again, you know, I think I said.
 
 **Michaela:**: [00:44:07] That's true. Yeah. I, this really resonates a lot with
 me. So maybe the last question that I want to ask you, and it's a little bit
-connected to the Twitter. Things is about testing. So I made a study, actually.
+connected to the Twitter thing is about testing. So I made a study, actually.
 I think it's. I dunno how many years ago? A couple of years, eight years, 10
 years, 10 years time flies.
 And I was looking at unit tests versus integration tests and system tests. And
@@ -804,7 +804,7 @@ think about system tests?
 
 **Michael Feathers:**[00:45:00] Yeah, I think, I think it's shifted a lot with
 service orientation, right? When we're doing like microservices and stuff along
-those lines, the there's like a, you know, We talked about like code being
+those lines, then there's like a, you know, We talked about like code being
 alive, right? There's this great talk from Alan Kay at oops, look basically in
 the 1990s where he basically goes and draws a parallel between code and biology.
 And he talks about, you know, his original conception of object orientation
